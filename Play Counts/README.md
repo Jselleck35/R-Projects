@@ -8,3 +8,4 @@ First, what you need to accomplish is to transform the data given here into an i
 
 Then, construct the association rules using the function Apriori in the R package arules and then look for artists (or groups of artists) who have support that is larger than 0.01 (1%). After the calculation is checked, another music collection of an artist turns out to be larger than 0.50 (50%). 
 
+Dataset, available at: https://labrosa.ee.columbia.edu/millionsong/lastfm
